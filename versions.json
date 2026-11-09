@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "appVersion": "2.9.21",
+      "packageName": "public_Manage_1106",
+      "publishedAt": "2026-11-09",
+      "downloadUrl": "https://github.com/dimeta456/PIMS_Download/releases/download/2.9.21/public_Manage_1106.zip",
+      "mssqlDir": "Mssql_version",
+      "sqliteDir": "Sqllite_version"
+    }
+  ]
+}
