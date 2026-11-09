@@ -11,3 +11,12 @@
 | 2.9.21 | public_Manage_1106 | [public_Manage_1106.zip](https://github.com/dimeta456/PIMS_Download/releases/download/2.9.21/public_Manage_1106.zip) |
 
 壓縮包裡有 SQL Server 版和 SQLite 版。用哪種資料庫，就進哪個目錄。
+
+## SQL Server 通用安裝
+
+SQL Server 與 SSMS 不隨 App 版本改變，所有後台版本共用，下載一次即可。
+
+| 檔案 | 用途 | 下載 |
+|---|---|---|
+| SQL2022-SSEI-Dev.exe | SQL Server 2022 | [下載](https://github.com/dimeta456/PIMS_Download/releases/download/mssql/SQL2022-SSEI-Dev.exe) |
+| SSMS-Setup-CHS.exe | SQL Server Management Studio 中文版 | [下載](https://github.com/dimeta456/PIMS_Download/releases/download/mssql/SSMS-Setup-CHS.exe) |

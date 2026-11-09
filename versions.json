@@ -8,5 +8,10 @@
       "mssqlDir": "Mssql_version",
       "sqliteDir": "Sqllite_version"
     }
-  ]
+  ],
+  "mssql": {
+    "shared": true,
+    "sqlServer": "https://github.com/dimeta456/PIMS_Download/releases/download/mssql/SQL2022-SSEI-Dev.exe",
+    "ssms": "https://github.com/dimeta456/PIMS_Download/releases/download/mssql/SSMS-Setup-CHS.exe"
+  }
 }
